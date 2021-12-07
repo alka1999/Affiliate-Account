@@ -1,0 +1,53 @@
+.myc{
+    margin-top: 7vw;
+}
+.mysubc{
+    margin: 0px 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 30px 20px;
+}
+.control.has-icons-right .input, .control.has-icons-right .select select {
+    padding-right: 1em;
+}
+.control.has-icons-left .input, .control.has-icons-left .select select {
+    padding-left: 1em;
+}
+.input{
+    border: 1px solid black; 
+    color: #000000; 
+}
+.input:focus{
+    border: 1px solid black;
+    box-shadow: none;
+}
+.fbut{
+    text-align: center;
+}
+.button{
+    border: 1px solid black;   
+}
+.button:focus{
+    border: 1px solid black;
+    box-shadow: none;
+}
+.button:hover{
+    background-color: #ff9900;
+}
+.i{
+    margin-bottom: 20px;
+}
+.login{
+    text-align: center;
+    padding-bottom: 5px;
+}
+.div2{
+    text-align: center;
+    margin: 20px;
+}
+a{
+    color: #000000;
+}
+a:hover{
+    text-decoration: underline;
+}
